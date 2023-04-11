@@ -1,2 +1,2 @@
-# test-repo2
+# test-repo
 My first github repository
